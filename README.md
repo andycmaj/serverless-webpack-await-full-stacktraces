@@ -1,5 +1,6 @@
-> Fork of [serverless-webpack typescript example](https://github.com/serverless-heaven/serverless-webpack/tree/master/examples/typescript)
+> This example repo is a fork of [serverless-webpack typescript example](https://github.com/serverless-heaven/serverless-webpack/tree/master/examples/typescript)
 
+This repo is a demonstration of [this blog entry](https://todayilearned.io/til/full-stacktrace-for-async-await-node).
 
 # Testing
 
