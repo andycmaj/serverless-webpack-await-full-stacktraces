@@ -1,0 +1,26 @@
+{
+  "name": "serverless-webpack-await-full-stacktraces",
+  "version": "1.0.0",
+  "description": "Serverless webpack example using Typescript",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicola Peduzzi <thenikso@gmail.com> (http://nikso.net)",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.6.4",
+    "@babel/preset-env": "^7.6.3",
+    "@babel/preset-typescript": "^7.6.0",
+    "babel-loader": "^8.0.6",
+    "babel-plugin-source-map-support": "2.1.1",
+    "cache-loader": "^4.1.0",
+    "fork-ts-checker-webpack-plugin": "^1.5.1",
+    "serverless": "^1.54.0",
+    "serverless-webpack": "5.3.1",
+    "source-map-support": "0.5.13",
+    "typescript": "^3.6.4",
+    "webpack": "^4.41.2",
+    "webpack-node-externals": "^1.7.2"
+  }
+}
